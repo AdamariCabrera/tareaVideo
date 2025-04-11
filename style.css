@@ -1,0 +1,61 @@
+/* Estilo general */
+/* Estilos generales para el body */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(assets/imagenes/fondo.png);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+/* Contenedor */
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para el h1 */
+h1 {
+    background-color: #f5f5dc;
+    color: #ffb2db;
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Estilos para el contenedor de video */
+.video-container {
+    margin-top: 20px;
+    text-align: center; /* Cambié 'position: center' a 'text-align: center' */
+}
+
+/* Estilos para el video */
+video {
+    width: 80%;
+    max-width: 600px;
+    border: 5px solid #2f4f4f;
+}
+
+/* Estilos para el cuadro de texto creativo */
+.creative-text {
+    background-color: #f5f5dc;
+    font-size: 35px;
+    color: #583e30;
+    padding: 30px;
+    border-radius: 30px;
+    width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
